@@ -3,6 +3,11 @@
 ## 10 Push ups
 ![Push up gif](https://raw.githubusercontent.com/andrewboes/backworkout/master/Exercies/giphy.gif)
 
+## Piriformis Exercise (https://www.youtube.com/watch?v=ZEqRoCJ6UAY&feature=youtu.be)
+Lay stomache on bed and hang on leg off.
+Hook hanging foot on opposite knee
+Lift hanging leg
+
 ## Arm side drop
 ![Push up gif](https://raw.githubusercontent.com/andrewboes/backworkout/master/Exercies/ArmSidedrop.jpg)
 
