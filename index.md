@@ -3,6 +3,9 @@
 ## 10 Push ups
 ![Push up gif](https://raw.githubusercontent.com/andrewboes/backworkout/master/Exercies/giphy.gif)
 
+## Mckenzie Stretches (30 seconds in each position)
+![Push up gif](https://raw.githubusercontent.com/andrewboes/backworkout/master/Exercies/mckenziemethod.jpg)
+
 ## Piriformis Exercise (https://www.youtube.com/watch?v=ZEqRoCJ6UAY&feature=youtu.be)
 Lay stomache on bed and hang on leg off.
 Hook hanging foot on opposite knee
