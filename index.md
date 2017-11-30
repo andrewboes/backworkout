@@ -59,7 +59,7 @@
 ![Push up gif](https://raw.githubusercontent.com/andrewboes/backworkout/master/Exercies/ArmSidedrop.jpg)
 
 ### Pull up bar leg raises (use wide grip)
-![Something] (https://media.gq.com/photos/55828be51177d66d68d52b41/master/w_800/style-blogs-the-gq-eye-toe-to-bar.gif)
+![Something](https://media.gq.com/photos/55828be51177d66d68d52b41/master/w_800/style-blogs-the-gq-eye-toe-to-bar.gif)
 
 ### Supine Twist
 ![Push up gif](https://raw.githubusercontent.com/andrewboes/backworkout/master/Exercies/SupineTwist.gif)
