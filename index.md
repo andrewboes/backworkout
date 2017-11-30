@@ -68,4 +68,4 @@
 ### Supine Twist
 ![Push up gif](https://raw.githubusercontent.com/andrewboes/backworkout/master/Exercies/SupineTwist.gif)
 
-This is the next level (https://www.youtube.com/watch?v=b1K0BdjnNks)
+This is the next level (Upper body: https://www.youtube.com/watch?v=b1K0BdjnNks, Abs: https://www.youtube.com/watch?v=fKqE6qGlJ_0)
