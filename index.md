@@ -55,6 +55,9 @@
 ### 15 Chin ups
 ![Chin up gif](http://traininghomeandaway.com/wp-content/uploads/2013/12/Chin-Ups.gif)
 
+### Shoulder Press (2x10)
+![Shoulder Press gif](https://media.giphy.com/media/7lugb7ObGYiXe/source.gif)
+
 ### Arm side drop
 ![Push up gif](https://raw.githubusercontent.com/andrewboes/backworkout/master/Exercies/ArmSidedrop.jpg)
 
